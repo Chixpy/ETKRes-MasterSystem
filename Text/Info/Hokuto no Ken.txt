@@ -1,0 +1,7 @@
+One of the first in a long line of games built upon Bronson's and Tetsuya Hara's long running Hokuto no Ken series (also known as Fist of the North Star).
+
+The protagonist, Kenshiro, must travel across the barren wastelands that the world has turned into after nuclear war, looking for his woman, Julia. Julia has been kidnapped by Kenshiro's enemy, Shin, and between her and Ken stands an army of mutant punks. Luckily for Ken, he knows the secret hokutoshinken fighting technique, which can kill even the strongest enemy by turning their guts around and twisting their muscles until they literally explode.
+
+The game is side-scrolling (with parallax effects for greater depth), with enemies running at Kenshiro from both sides of the screen. Button 1 kicks and button 2 punches, while pressing up will make Ken jump. After wandering a few screens, the scrolling will come to a stop and Ken is assaulted by a stronger enemy, each with his own weapons and weaknesses. After that, the exploding of punks resumes.
+
+This game was remodeled for the export market into Black Belt.

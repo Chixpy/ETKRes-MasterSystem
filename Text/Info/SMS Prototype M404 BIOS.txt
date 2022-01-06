@@ -1,0 +1,3 @@
+SEGA's 8-bit console came with built-in games in several of its releases. In three of them a hidden game (never released separated) called Snail Maze could be found. It was accessible by pressing together 1, 2 and up during the SEGA logo screen. The only Sega Master System versions which featured it were the original one (with no built in game), the one with Hang On built in and the one with Hang-On & Safari Hunt built in.
+
+The gameplay consists of guiding an orange snail with a yellow shell through a blue maze. The goal is marked with an arrow and there's a time limit to get to it. As the levels progress, the time limit is reduced.
