@@ -40,7 +40,7 @@ For Magazine texts:
 For Maps (or magazine game guides):
 
   * If it's a magazine game guide: Same as Magazine texts.
-  * If it's a digital map (made of screenshot or similar): Better .png and keep as is (do not remove author, or other info; and if it's bigger than 2048px too)
+  * If it's a digital map (made with screenshots or similar): Better in .png format and keep as is (do not remove author, or other info; and if it's bigger than 2048px keep the size too).
   
 ### Icons, Logos
 
