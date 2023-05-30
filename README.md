@@ -11,11 +11,13 @@ https://github.com/Chixpy/ETKRes-MasterSystem/archive/master.zip
 
 ## About Images
 
+You can read more about media files in [Emuteca's Web Page](https://chixpy.github.io/Emuteca/pages/Media-Files.html) (but it's in spanish...)
+
 ### Screenshot, Titles
 
 Rule #1: No filters to screenshots.
 
-All images in .png format at original resolution: *268 x 224* (NTSC) or *268 x 240* (PAL) with border. 
+All images in .png format at original resolution: *256 x 224* (NTSC) or *256 x 240* (PAL) with border. 
 
 All games seem to have a real height of 192px without the border, and not all games use the same width. So the border is different and we will keep it then.
 
@@ -58,7 +60,7 @@ After extracting the icon image with transparent background, a border is added: 
 
 [Emuteca](https://github.com/chixpy/emuteca) has [ETKIconBorder](https://github.com/Chixpy/Emuteca/blob/master/bin/Tools/ETKIconBorder.exe) tool in its distribution. A simple image editor to cut, extract, make transparency in images and apply filters to original image.
 
-Altenatively, there is a GIMP's script too, that can add the border automatically after transparent background is created. But it's slooooow.
+Alternatively, there is a [GIMP's script](https://github.com/Chixpy/Emuteca/tree/master/bin/Tools/Icon%20Border%20Gimp%20script) too, that can add the border automatically after transparent background is created. But it's slooooow.
 
 ## About Texts
 
