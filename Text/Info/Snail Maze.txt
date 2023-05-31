@@ -1,3 +1,0 @@
-Snail Maze was a hidden game built into Sega Master System's BIOS. It was accessible by pressing together 1, 2 and up during the SEGA logo screen. The only Sega Master System versions which featured it were the original one (with no built in game), the one with Hang On built in and the one with Hang On & Safari Hunt built in.
-
-The gameplay consists of guiding an orange snail with a yellow shell through a blue maze. The goal is marked with an arrow and there's a time limit to get to it. As the levels progress, the time limit is reduced.
